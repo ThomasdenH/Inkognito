@@ -239,4 +239,9 @@ table {
 .input-left {
 	width: 100px;
 	text-align: left;
+	padding-left: 12px;
+}
+
+.input-left input {
+	margin-right: 12px;
 }
